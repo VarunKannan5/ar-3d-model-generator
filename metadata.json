@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gen3D AR Builder",
+  "description": "Real-time generative 3D object builder using geometric primitives and AR preview.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
